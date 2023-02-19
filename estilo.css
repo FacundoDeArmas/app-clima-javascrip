@@ -1,0 +1,22 @@
+.body {
+    background: url(./img/cloud.jpg);
+    background-size:cover;
+}
+.container {
+    max-width: 500px;
+    text-align: center;
+    padding: 25px 25px 55px;
+    margin: 11% auto 0;
+    background-color: #526c96;
+    border-radius: 9px;
+    font-size: 35px;
+    margin-bottom: 11px;
+    color: #cfcfd9;
+    border: 3px solid rgb(97, 127, 161);
+}
+.options {
+    font-size: 20px;
+    background-color: rgb(204, 228, 240);
+    border-radius: 9px;
+    margin-bottom: 10px;   
+}
